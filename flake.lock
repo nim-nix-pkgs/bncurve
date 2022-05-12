@@ -13,11 +13,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1651556685,
-        "narHash": "sha256-n0nOynBuORP0XGRdoYL0p3gr1sryp/IFcrrFox/8CtI=",
+        "lastModified": 1652366388,
+        "narHash": "sha256-w27XMhykzcYAJq2/UETRdD0udEPGFDooLQHVsEsBWKg=",
         "owner": "nim-nix-pkgs",
         "repo": "bncurve",
-        "rev": "b84a0a818be04cd3cde0a4052e8740fd8da72a43",
+        "rev": "64cd1505bbcd41e472327bfc0574ae7cf2250499",
         "type": "github"
       },
       "original": {
@@ -63,11 +63,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1651555723,
-        "narHash": "sha256-tfiY5Sv7WFFxR7tt2edwRqr8I+4KAToWZjJocHzbWPI=",
+        "lastModified": 1651918189,
+        "narHash": "sha256-vwu7UfNS12No1Ynua/YTJjn4hV87daxenNf3uEv4Scs=",
         "owner": "nim-nix-pkgs",
         "repo": "nimcrypto",
-        "rev": "069af62638c6d6c1c717d77e6f4fd95753c18d5c",
+        "rev": "35945b32e72643a356df3b403a80d73e677c1796",
         "type": "github"
       },
       "original": {
